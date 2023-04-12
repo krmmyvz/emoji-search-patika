@@ -13,6 +13,8 @@ Proje için yazılan testleri `EmojiSearch.test.js` dosyası içinde bulabilirsi
 Orijinal projenin kaynak kodlarına buradan erişebilirsiniz:
 [Emoji Search](https://github.com/ahfarmer/emoji-search)
 
+![Ekran Görüntüsü](https://github.com/krmmyvz/emoji-search-patika/blob/main/Screenshot.png)
+
 ## Kurulum
 
 Emoji Search projesini kullanmak için şunları yapmanız gerekir:
